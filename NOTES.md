@@ -38,6 +38,6 @@
 
 ## Verification
 
-- [ X ] `/memory` shows `CLAUDE.md` as loaded in a fresh session
-- [ X ] `/permissions` lists the allow / ask / deny rules above
-- [ X ] Asking "How do I run the tests here?" is answered from `CLAUDE.md`
+- [x] `/memory` shows `CLAUDE.md` as loaded in a fresh session
+- [x] `/permissions` lists the allow / ask / deny rules above
+- [x] Asking "How do I run the tests here?" is answered from `CLAUDE.md`
